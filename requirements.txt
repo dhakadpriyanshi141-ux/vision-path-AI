@@ -1,0 +1,12 @@
+opencv-python
+numpy
+pillow
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+requests
+pyttsx3
+pytesseract
+anthropic
+ultralytics   # only needed once, to export the YOLO model to ONNX (export_model.py)
